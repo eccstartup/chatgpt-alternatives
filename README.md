@@ -7,7 +7,7 @@ Some reading about chatgpt alternatives.
 * [How ChatGPT actually works](https://www.assemblyai.com/blog/how-chatgpt-actually-works/)
 
 ## Alternatives
-* [nanoChatGPT(https://github.com/sanjeevanahilan/nanoChatGPT)
+* [nanoChatGPT](https://github.com/sanjeevanahilan/nanoChatGPT)
 * [LLaMA](https://github.com/facebookresearch/llama)
 * [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 * [Alpaca-LoRA](https://github.com/tloen/alpaca-lora)
